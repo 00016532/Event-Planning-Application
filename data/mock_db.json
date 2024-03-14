@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": "00016532",
+        "ticket": {    
+            "eventName": "Million comedy concert",
+            "eventDateTime": "22/03/2024 19:00",
+            "venue": "Turkiston Palace",
+            "contactPhone": "991234567",
+            "seat": "sector: B, row: 16, seat: 25"
+        }
+    }
+]
